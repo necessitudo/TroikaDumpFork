@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseExampleNFC</string>
+    <string name="ok_detection">All right!</string>
+</resources>
